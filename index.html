@@ -45,8 +45,8 @@
       }
       .wrapper {
         display: grid;
-        grid-template-columns: 50% 50%;
-        grid-template-rows: 50% 50%;
+        /*grid-template-columns: 70% 70%;*/
+        /*grid-template-rows: 70% 70%;*/
       }
       .banner-text {
         text-align: center;
@@ -70,7 +70,7 @@
           </amp-img>
         </amp-story-grid-layer>
         <amp-story-grid-layer template="vertical">
-          <h1>We are getting married.</h1>
+          <h1>We are getting married</h1>
         </amp-story-grid-layer>
       </amp-story-page>
 
@@ -83,9 +83,9 @@
                    layout="responsive">
           </amp-img>
         </amp-story-grid-layer>
-        <amp-story-grid-layer template="vertical">
-          <h1>Cats</h1>
-          <q>Dogs come when they're called. Cats take a message and get back to you. --Mary Bly</q>
+        <amp-story-grid-layer template="vertical" class="bottom">
+          <h1>서로..</h1>
+          <q>다른 곳을 바라보던 저희가 이제 한 곳을 바라보려 합니다.</q>
         </amp-story-grid-layer>
       </amp-story-page>
 
@@ -97,9 +97,9 @@
               layout="responsive">
           </amp-img>
         </amp-story-grid-layer>
-          <amp-story-grid-layer template="thirds">
-            <h1 grid-area="upper-third">Dogs</h1>
-            <p grid-area="lower-third">Dogs were probably the first tame animals. They have accompanied humans for some 10,000 years. Some scientists assert that all dogs, domestic and wild, share a common ancestor in the small South Asian wolf.</p>
+        <amp-story-grid-layer template="vertical">
+          <h1>오랜</h1>
+          <q>기다림끝에 저희 두 사람이 함께하는 첫걸음에 한마음이 될 수 있도록 축복해주세요.</q>
         </amp-story-grid-layer>
       </amp-story-page>
 
@@ -140,7 +140,7 @@
         <amp-story-grid-layer template="vertical" class="noedge">
           <div class="wrapper">
             <amp-img src="assets/images/h1.jpg"
-                width="1400" height="479"
+                width="720" height="479"
                 layout="responsive"
                 animate-in="fade-in"
                 animate-in-delay="0.4s">
@@ -163,10 +163,13 @@
                 animate-in="fade-in"
                 animate-in-delay="1s">
             </amp-img>
+            <amp-img src="assets/images/h5.jpg"
+                     width="720" height="479"
+                     layout="responsive"
+                     animate-in="fade-in"
+                     animate-in-delay="1.2s">
+            </amp-img>
           </div>
-        </amp-story-grid-layer>
-        <amp-story-grid-layer template="vertical" class="center-text">
-          <p class="banner-text" animate-in="whoosh-in-right">Pets can lower your stress levels!</p>
         </amp-story-grid-layer>
       </amp-story-page>
 
