@@ -1,0 +1,10 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [],
+  "components": [
+    {
+      "type": "heading",
+      "text": "More to read"
+    }
+  ]
+}
