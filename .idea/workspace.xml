@@ -41,13 +41,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="564" />
+          <entry key="html" value="639" />
           <entry key="json" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="564" />
+          <entry key="HTML" value="639" />
           <entry key="JSON" value="8" />
         </counts>
       </usages-collector>
@@ -67,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="47" column="8" selection-start-line="47" selection-start-column="10" selection-end-line="48" selection-end-column="38" />
+            <state relative-caret-position="453">
+              <caret line="183" column="31" selection-start-line="183" selection-start-column="31" selection-end-line="183" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -92,6 +92,7 @@
       <find>mp3</find>
       <find>bookend</find>
       <find>../</find>
+      <find>amp-iframe</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -158,7 +159,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540126809837" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540128733182" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
   </component>
@@ -194,12 +195,12 @@
       <option name="presentableId" value="Default" />
       <updated>1539077561887</updated>
       <workItem from="1539077564797" duration="2224000" />
-      <workItem from="1540116588587" duration="3913000" />
+      <workItem from="1540116588587" duration="4392000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6137000" />
+    <option name="totallyTimeSpent" value="6616000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -258,8 +259,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="47" column="8" selection-start-line="47" selection-start-column="10" selection-end-line="48" selection-end-column="38" />
+        <state relative-caret-position="453">
+          <caret line="183" column="31" selection-start-line="183" selection-start-column="31" selection-end-line="183" selection-end-column="31" />
         </state>
       </provider>
     </entry>
